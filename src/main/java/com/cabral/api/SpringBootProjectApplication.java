@@ -10,7 +10,7 @@ public class SpringBootProjectApplication {
 		SpringApplication.run(SpringBootProjectApplication.class, args);
 		System.out.println("first commit");
 	}
-	
-	//teste commit kraken
+
+	// teste commit kraken
 
 }
